@@ -24,9 +24,9 @@ author:
   avatar           : "adirondacks.jpg"
   name             : "Coleman Gliddon"
   pronouns         : "he/him"  
-  bio              : "Graduate student at MIT studying Earth's atmosphere and climate."
+  bio              : "Graduate student researching Earth's atmosphere and climate."
   location         : "Cambridge, MA"
-  employer         : "Massachusetts Institute of Technology"
+  employer         : "MIT"
   uri              : # URL
   email            : "cgliddon@mit.edu" 
 
