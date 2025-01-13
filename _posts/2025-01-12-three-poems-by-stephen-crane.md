@@ -15,15 +15,15 @@ Lately, I've been taking a self-directed refresher course in Latin, a language I
 
 *The Black Riders* 3: "In the desert"
 ------
-> in deserto
-> vidi animal, nudum, bestiale,
-> quod humi subsessum
-> suum cordem in manibus tenebat,
-> et eo vescebatur.
-> dixi, "estne bonum, amice?"
-> respondit, "est acerbum–acerbum,
-> "sed eo fruor,
-> "quod est acerbum,
+> in deserto \\
+> vidi animal, nudum, bestiale, \\
+> quod humi subsessum \\
+> suum cordem in manibus tenebat, \\
+> et eo vescebatur. \\
+> dixi, "estne bonum, amice?" \\
+> respondit, "est acerbum–acerbum, \\
+> "sed eo fruor, \\
+> "quod est acerbum, \\
 > "et quod cor meum est."
 
 Maybe Crane's most famous poem, a striking portrait of our capacity for self-immiseration. I wasn't thinking about this while writing the translation, but there's something strangely appropriate that the most important verbs in the Latin version ("vescebatur" = "he was feeding (on)" and "fruor" = "I enjoy") are both deponent, that is, active in meaning but passive in form; it's as though our "animal" was not the true agent of his own actions.
