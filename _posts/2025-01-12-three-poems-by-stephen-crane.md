@@ -9,7 +9,7 @@ tags:
   - non-research
 ---
 
-Lately, I've been taking a self-directed refresher course in Latin, a language I studied for six years back in middle and high school (yes, I went to one of THOSE schools). A fun little exercise I'll sometimes do to check my understanding of the grammar is translate a short English text into as idiomatic Latin as I can muster. One great corpus for this that I've recently been mining is the poetry of Stephen Crane, an American writer of the late nineteenth century. Crane's poems–tiny free-verse parables set in a grim universe of foolish humans and angry gods–are highly unorthodox by the standards of his time. However, the direct, simple language of these "lines" (as Crane called them) makes them ideal for translation. Here are three examples I've recently worked on; the first two are from the collection *The Black Riders*, and the third is from *War is Kind*.
+Lately, I've been taking a self-directed refresher course in Latin, a language I studied for six years back in middle and high school (yes, I went to one of THOSE schools). A fun little exercise I'll sometimes do to check my understanding of the grammar is translate a short English text into as idiomatic Latin as I can muster. One great corpus for this that I've recently been mining is the poetry of Stephen Crane, an American writer of the late nineteenth century. Crane's poems—tiny free-verse parables set in a grim universe of foolish humans and angry gods—are highly unorthodox by the standards of his time. However, the direct, simple language of these "lines" (as Crane called them) makes them ideal for translation. Here are three examples I've recently worked on; the first two are from the collection [*The Black Riders*](https://www.gutenberg.org/cache/epub/40786/pg40786-images.html), and the third is from [*War is Kind*](https://www.gutenberg.org/cache/epub/9870/pg9870.txt).
 
 ***
 
@@ -31,10 +31,10 @@ Maybe Crane's most famous poem, a striking portrait of our capacity for self-imm
 *The Black Riders* 15: "'Tell brave deeds of war'"
 ------
 > "de factis fortibus belli narrate." \
-> deinde fabulas commemorabant– \
+> deinde fabulas commemorabant— \
 > "erant defensiones durantes \
 > "et cursus acri ad gloriam." \
-> –ah! sed puto facta fortiora fuisse.
+> —ah! sed puto facta fortiora fuisse.
 
 Nothing much special here, only a lot of serendipitous alliteration. Rendering the original's "stern stands" as "defensiones durantes" (lasting defenses) took a little bit of creativity, but the repetitions of the "d", "f", and "b" sounds in the first two lines were completely automatic–to say nothing of the wonderful final line. ("puto," meaning "I suspect" or "I consider," has no etymological relation to the Spanish swearword, but given the implied contempt the poem's speaker has toward these tales of martial bravery, it's not an unhappy coincidence.)
 
@@ -50,7 +50,7 @@ from *War is Kind*: "Do not weep, maiden, for war is kind"
 > animi parvi qui pugnam concupiscunt,\
 > hi viri sunt facti exercere et mori.\
 > supra eos nullo intellegente volat gloria;\
-> magnus est Mars, maximus, et suum regnum–\
+> magnus est Mars, maximus, et suum regnum—\
 > est campus ubi iacent mille cadaveres.
 > 
 > noli plorare, puella, quia bonum est bellum.\
