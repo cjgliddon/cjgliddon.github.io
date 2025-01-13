@@ -21,7 +21,7 @@ Lately, I've been taking a self-directed refresher course in Latin, a language I
 > suum cordem in manibus tenebat, \
 > et eo vescebatur. \
 > dixi, "estne bonum, amice?" \
-> respondit, "est acerbum–acerbum, \
+> respondit, "est acerbum—acerbum, \
 > "sed eo fruor, \
 > "quod est acerbum, \
 > "et quod cor meum est."
