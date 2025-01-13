@@ -36,7 +36,7 @@ Maybe Crane's most famous poem, a striking portrait of our capacity for self-imm
 > "et cursus acri ad gloriam." \
 > —ah! sed puto facta fortiora fuisse.
 
-Nothing much special here, only a lot of serendipitous alliteration. Rendering the original's "stern stands" as "defensiones durantes" (lasting defenses) took a little bit of creativity, but the repetitions of the "d", "f", and "b" sounds in the first two lines were completely automatic–to say nothing of the wonderful final line. ("puto," meaning "I suspect" or "I consider," has no etymological relation to the Spanish swearword, but given the implied contempt the poem's speaker has toward these tales of martial bravery, it's not an unhappy coincidence.)
+Nothing much special here, only a lot of serendipitous alliteration. Rendering the original's "stern stands" as "defensiones durantes" (lasting defenses) took a little bit of creativity, but the repetitions of the "d", "f", and "b" sounds in the first two lines were completely automatic—to say nothing of the wonderful final line. ("puto," meaning "I suspect" or "I consider," has no etymological relation to the Spanish swearword, but given the implied contempt the poem's speaker has toward these tales of martial bravery, it's not an unhappy coincidence.)
 
 from *War is Kind*: "Do not weep, maiden, for war is kind"
 ------
