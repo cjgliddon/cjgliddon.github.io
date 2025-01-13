@@ -72,11 +72,3 @@ from *War is Kind*: "Do not weep, maiden, for war is kind"
 > bonum est bellum.
 
 Another one of Crane's better-known poems, "War is kind" is the longest of his works I've translated so far. I'm not entirely satisfied with it in its current state. In the last stanza in particular I had trouble trying to find an appropriate translation for "shroud" (the closest I could find was "brandeum," a word used by some post-classical authors) and figuring out what the gender of the adjective "humile" should be: should it agree with "cor" (neuter) or "fibula" (feminine, in which case it would be "humilis")? I invite corrections from any classicists in the audience. 
-
-<script src="https://utteranc.es/client.js"
-        repo="cjgliddon.github.io"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
