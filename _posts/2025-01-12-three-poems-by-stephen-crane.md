@@ -15,7 +15,7 @@ Lately, I've been taking a self-directed refresher course in Latin, a language I
 
 *The Black Riders* 3: "In the desert"
 ------
-> in deserto \\
+> in deserto \
 > vidi animal, nudum, bestiale, \\
 > quod humi subsessum \\
 > suum cordem in manibus tenebat, \\
